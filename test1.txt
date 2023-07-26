@@ -1,1 +1,15 @@
-Hi iam Bala
+Ensure git is connected to an github with following two commands on GIT cmd 
+git config --global user.name "username of github account"
+git config --global user.email "mail id of github account"
+
+To connect our visual studio project to an github by use following command
+git clone 'link of github project folder'
+
+To add new file or existing file to an folder of github
+git add file_name.extension
+
+To check status of an file is added or deleted in github 
+git status
+
+
+
