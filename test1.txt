@@ -12,9 +12,9 @@ To check status of an file is added or deleted in github
 git status
 
 To make final changes to an changes or updated in github 
-git push origin ex:{ VScode -> Github }
+git push origin { VScode -> Github }
 For reverse method 
-git pull ex:{Github -> VScode }
+git pull { Github -> VScode }
 
 
 
