@@ -16,8 +16,6 @@ git push origin { VScode -> Github }
 For reverse method 
 git pull { Github -> VScode }
 
-hi 
-
 
 
 
